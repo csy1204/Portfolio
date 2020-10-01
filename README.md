@@ -24,7 +24,7 @@
 
 ### 1.3. Project: TripBigs
 
-> 2020.07, 개발인원 1명<br>
+> 2020.07<br>
 > React, Redux, Redux-saga, Flask, LightGBM
 
 [[프로젝트 링크]](https://github.com/csy1204/TripBigs_Web)
