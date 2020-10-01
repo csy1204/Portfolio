@@ -1,9 +1,11 @@
-# 조상연의 Portfolio
+# 👨‍💻 조 상연의 Portfolio
 
 
-## 1. ML & DL
+## 1. 💡 ML & DL
 
 ### 1.1. Tobigs 우수과제
+
+> 13기 우수과제로 선정된 코드들입니다. 전체 우수과제는 [여기서](https://github.com/tobigs-datamarket/tobigs-13th) 확인 가능합니다.
 
 |주제|설명|링크|
 |--|--|--|
@@ -13,6 +15,8 @@
 | **NLP** | 뉴스 빅데이터 기반 형태소 추출기(khaiii, twitter, kkma) 비교 및<br>임베딩 모델(Skipgram, CBOW, FastText) 비교 |[링크](https://github.com/csy1204/Portfolio/blob/master/Tobigs-ML%26DL/Week8_NLP/w8_nlp_cho.md)|
 
 ### 1.2. Tobgis 
+
+> Tobigs 활동을 하며 만든 자료들입니다. 주로 추천시스템 세미나 자료입니다.
 
 | Title | Link |
 |--|--|
@@ -25,7 +29,8 @@
 ### 1.3. Project: TripBigs
 
 > 2020.07<br>
-> React, Redux, Redux-saga, Flask, LightGBM
+> React, Redux, Redux-saga, Flask, LightGBM<br>
+> 투빅스 컨퍼런스 프로젝트로 세션 기반의 호텔 추천시스템을 개발하였습니다.
 
 [[프로젝트 링크]](https://github.com/csy1204/TripBigs_Web)
 
@@ -37,12 +42,13 @@
 3. Session 기반 추천순 정렬을 이용할 시 Redux-Saga를 이용한 비동기 통신 제어를 하였으며, 전반적으로 Redux를 통한 상태관리르 구현하였습니다. 백엔드 서버는 Flask로 구현되었으며 실시간 인퍼런스를 제공합니다.
 
 
-## 2. Web Full Stack
+## 2. 🚀 Web Full Stack
 
 ### 2.1. Dynamic Subtitle Generator & Web Editor
 
 > 2020.01, 개발인원 1명<br>
-> React, Flask, NCloud Clova AI API, OpenCV
+> React, Flask, NCloud Clova AI API, OpenCV<br>
+> NAVER AI Bunring Day 본선 참가작으로 WebVTT 기반 동적 자막 생성 및 웹에디터를 개발하였습니다.
 
 [[프로젝트 레포지토리]](https://github.com/csy1204/Dynamic-Subtitle-Auto-generator) | [[시연 영상]](https://www.youtube.com/watch?v=zkR_4aC83iA&ab_channel=PlayDev) | [[발표자료]](https://github.com/csy1204/Dynamic-Subtitle-Auto-generator/blob/master/OCCR_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
@@ -71,7 +77,7 @@
 
 
 
-## 3. CS
+## 3. ✍🏻 CS
 
 ### Computer Network (Python)
 
