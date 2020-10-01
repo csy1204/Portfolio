@@ -24,6 +24,9 @@
 
 ### 1.3. Project: TripBigs
 
+> 2020.07, 개발인원 1명<br>
+> React, Redux, Redux-saga, Flask, LightGBM
+
 [[프로젝트 링크]](https://github.com/csy1204/TripBigs_Web)
 
 사용자의 이벤트 로그 기반으로 세션 기반 추천을 제공합니다. 실시간 ML 모델 서빙을 통한 실시간 추론을 제공하며, 오토인코더, 협업필터링 기반 호텔별 맛집 추천 리스트를 보여줍니다.
@@ -35,6 +38,36 @@
 
 
 ## 2. Web Full Stack
+
+### 2.1. Dynamic Subtitle Generator & Web Editor
+
+> 2020.01, 개발인원 1명<br>
+> React, Flask, NCloud Clova AI API, OpenCV
+
+[[프로젝트 레포지토리]](https://github.com/csy1204/Dynamic-Subtitle-Auto-generator) | [[시연 영상]](https://www.youtube.com/watch?v=zkR_4aC83iA&ab_channel=PlayDev) | [[발표자료]](https://github.com/csy1204/Dynamic-Subtitle-Auto-generator/blob/master/OCCR_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+
+|데모 스크린샷|
+|--|
+|![](https://user-images.githubusercontent.com/18041103/94856297-baaee280-046a-11eb-86d0-1c31abe09021.png)|
+
+**주요 특징**
+1. WebVTT 기반 동적 자막 생성 및 실시간 웹 에디터 기능 제공
+2. 프레임 별 OCR 텍스트 및 위치 인식 정보 기반으로 하여 WebVTT 자막 파일 생성 
+2. HTML5 플레이어 호환 가능하며 위치, 내용 수정 및 번역 기능 제공 (Firefox기준)
+
+
+### 2.2. 경매 가능한 중고거래 웹사이트 구현 (웹프로그래밍실습)
+
+> 2019.11 ~ 2019.12, 개발인원 3명<br>
+> django, google api, html, css, js
+
+[[프로젝트 레포지토리]](https://github.com/csy1204/ecommerce_project) | [[레포트]](https://github.com/csy1204/Portfolio/blob/master/CS%20Reports/Web%20Programming%20Lab_Final_Report.pdf)
+
+**주요 특징**
+1. 관리자, 판매자, 구매자가 있으며 판매자는 경매나 바로 구매하기로 물건을 올릴 수 있으며 경매 종료 기한을 설정할 수 있다.
+2. 구매자는 경매에 참여하거나 바로 구매를 할 수 있으며 경매가 종료되어 입찰을 받을 경우 확인이 가능하다.
+3. Google Map API를 이용해 거래 위치와 경로를 확인할 수 있다.
+
 
 
 
@@ -48,18 +81,6 @@
 | **HTTP Web Server** | TCP 소켓 프로그래밍을 통한 HTTP 서버 구현 (쿠키, Keep Alive 구현) | [코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment2%20HTTP%20Web%20Server/2013313217.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment2%20HTTP%20Web%20Server/HW2_Report.pdf) |
 | **Pipelined Reliable Data Transfer over UDP** | UDP기반 데이터 전송 프로그램 | [코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment3%20Pipelined%20Reliable%20Data%20Transfer%20over%20UDP/receiver.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment3%20Pipelined%20Reliable%20Data%20Transfer%20over%20UDP/2013313217_ChoSangYeon.pdf) |
 | **Chatting (NAT traversal)** | NAT traversal를 해결한 P2P 채팅 프로그램 | [코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment4%20NAT%20traversal/server.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment4%20NAT%20traversal/2013313217_ChoSangYeon.pdf)|
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
