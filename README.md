@@ -34,9 +34,23 @@
 3. Session 기반 추천순 정렬을 이용할 시 Redux-Saga를 이용한 비동기 통신 제어를 하였으며, 전반적으로 Redux를 통한 상태관리르 구현하였습니다. 백엔드 서버는 Flask로 구현되었으며 실시간 인퍼런스를 제공합니다.
 
 
-|Main|Info Tab|Recommendation|
+## 2. Web Full Stack
+
+
+
+## 3. CS
+
+### Computer Network (Python)
+
+|주제|설명|링크|
 |--|--|--|
-|![](https://github.com/csy1204/TripBigs_Web/raw/master/tripbigs1.png)|![](https://github.com/csy1204/TripBigs_Web/raw/master/tripbigs2.png)|![](https://github.com/csy1204/TripBigs_Web/raw/master/tripbigs3.png)|
+| **MultiThreading File Transfer** | 멀티쓰레딩을 통한 대용량 파일 복사 및 로그 작성 프로그램 |[코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment1%20MultiThreading%20File%20Transfer/main.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment1%20MultiThreading%20File%20Transfer/2013313217_report.pdf) |
+| **HTTP Web Server** | TCP 소켓 프로그래밍을 통한 HTTP 서버 구현 (쿠키, Keep Alive 구현) | [코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment2%20HTTP%20Web%20Server/2013313217.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment2%20HTTP%20Web%20Server/HW2_Report.pdf) |
+| **Pipelined Reliable Data Transfer over UDP** | UDP기반 데이터 전송 프로그램 | [코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment3%20Pipelined%20Reliable%20Data%20Transfer%20over%20UDP/receiver.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment3%20Pipelined%20Reliable%20Data%20Transfer%20over%20UDP/2013313217_ChoSangYeon.pdf) |
+| **Chatting (NAT traversal)** | NAT traversal를 해결한 P2P 채팅 프로그램 | [코드](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment4%20NAT%20traversal/server.py) [레포트](https://github.com/csy1204/Portfolio/blob/master/ComputerNetworks/Assignment4%20NAT%20traversal/2013313217_ChoSangYeon.pdf)|
+
+
+
 
 
 
