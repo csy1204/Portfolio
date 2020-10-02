@@ -2,6 +2,16 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsy1204%2FPortfolio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## 0. 🏢 Career
+
+| 기간 | 회사 | 직책 |
+|--|--|--|
+|2020.09 ~ | NAVER Corp. Glace CIC CONOMI 개발팀 | 개발 인턴 |
+|2019.07 ~ 2019.08 | NAVER Corp. Clova AI OCR팀 | 개발 인턴 |
+|2018.02 ~ 2018.12 | KETI | 위촉연구원 |
+|2017.06 ~ 2017.12 | TMON 여행데이터 TF | 데이터 분석 인턴 |
+
+
 ## 1. 💡 ML & DL
 
 ### 1.1. Tobigs 우수과제
