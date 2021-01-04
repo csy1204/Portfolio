@@ -6,7 +6,8 @@
 
 | 기간 | 회사 | 직책 |
 |--|--|--|
-|2020.09 ~ | NAVER Corp. Glace CIC CONOMI 개발팀 | 개발 인턴 |
+|2020.12 ~  | NAVER Corp. Glace CIC PUP팀 | 개발 |
+|2020.09 ~ 2020.10 | NAVER Corp. Glace CIC CONOMI 개발팀 | 개발 인턴 |
 |2019.07 ~ 2019.08 | NAVER Corp. Clova AI OCR팀 | 개발 인턴 |
 |2018.02 ~ 2018.12 | KETI | 위촉연구원 |
 |2017.06 ~ 2017.12 | TMON 여행데이터 TF | 데이터 분석 인턴 |
